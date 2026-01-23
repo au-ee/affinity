@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<svg width="100%" height="100%" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
     <g>
         <g id="Background">
             <g>
@@ -9,9 +9,9 @@
             </g>
         </g>
         <g transform="matrix(0.856785,0,0,0.856785,18.9858,29.4207)">
-            <path d="M68.751,82.244L153.879,131.92L238.287,82.244L153.879,31.058L68.751,82.244Z" style="fill:rgb(45,103,185);stroke:rgb(45,103,185);stroke-width:1.17px;"/>
-            <path d="M59.634,99.464L144.594,148.484L144.594,246.56L59.634,197.919L59.634,99.464Z" style="fill:rgb(45,103,185);stroke:rgb(45,103,185);stroke-width:1.17px;"/>
-            <path d="M162.579,149.166L248.083,99.464L248.083,197.678L162.579,246.56L162.579,149.166Z" style="fill:rgb(45,103,185);stroke:rgb(45,103,185);stroke-width:1.17px;"/>
+            <path d="M68.751,82.244L153.879,131.92L238.287,82.244L153.879,31.058L68.751,82.244Z" style="fill:rgb(45,103,185);"/>
+            <path d="M59.634,99.464L144.594,148.484L144.594,246.56L59.634,197.919L59.634,99.464Z" style="fill:rgb(45,103,185);"/>
+            <path d="M162.579,149.166L248.083,99.464L248.083,197.678L162.579,246.56L162.579,149.166Z" style="fill:rgb(45,103,185);"/>
         </g>
     </g>
 </svg>
